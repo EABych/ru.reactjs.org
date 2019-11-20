@@ -102,7 +102,7 @@ React работает в два этапа:
 * Метод `constructor` классового компонента
 * Метод `render`
 * Функции обновления`setState` (первый аргумент)
-* Статически метод `getDerivedStateFromProps`
+* Статический метод `getDerivedStateFromProps`
 
 > Примечание:
 >
